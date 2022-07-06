@@ -16,4 +16,16 @@ to rollback changes of a file
 ### git commit
 commits the changes to the local repo
 
+### git branch
+lists all the branches on the local repo
+
+### git remote -v
+lists the remote origin
+
+### git push <origin> <branch>
+ex. git push origin master
+pushes commits to the remote repo
+
+
+
 
