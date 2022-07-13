@@ -93,6 +93,13 @@ shows the stash content
 clears the stashes
 
 
+## restore and clean
+
+### git restore --staged <file>
+unstage changes
+
+
+
 
 
 
