@@ -26,6 +26,9 @@ lists the remote origin
 ex. git push origin master
 pushes commits to the remote repo
 
+### git pull origin
+pulls changes from the remote, it is fetch and merge
+
 
 
 
