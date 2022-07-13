@@ -98,6 +98,10 @@ clears the stashes
 ### git restore --staged <file>
 unstage changes
 
+### git reset --hard <hash>
+resets the head
+
+
 
 
 
