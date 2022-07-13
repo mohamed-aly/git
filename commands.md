@@ -102,6 +102,16 @@ unstage changes
 resets the head
 
 
+### git clean -n
+lists the cleanable files (unstaged)
+
+### git clean -f 
+removes unstaged changes
+
+## resetting the head
+
+### git log
+lists the logs
 
 
 
