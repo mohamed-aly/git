@@ -16,6 +16,9 @@ to rollback changes of a file
 ### git commit
 commits the changes to the local repo
 
+### git commit -a -m "commit add"
+add and commit
+
 ### git branch
 lists all the branches on the local repo
 
@@ -28,6 +31,44 @@ pushes commits to the remote repo
 
 ### git pull origin
 pulls changes from the remote, it is fetch and merge
+
+### git config -l
+lists configurations
+
+### git help config
+open config docs
+
+### git config --global user.email
+get config value
+
+### git config --global user.email "mali@gmail.com"
+set config value
+
+### git init
+creates empty repo
+
+### git config --global alias.st status
+create alias for a command
+
+### git branch
+list all branches
+
+### git branch <branch name>
+creates new branch
+
+### git checkout <branch name>
+checkout branch
+
+### git branch -d <branch>
+delete branch
+
+
+### git merge <branch name>
+merges branch in a branch
+
+### git stash
+saves added files out of staging area
+
 
 
 
