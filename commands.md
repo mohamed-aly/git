@@ -62,12 +62,35 @@ checkout branch
 ### git branch -d <branch>
 delete branch
 
-
 ### git merge <branch name>
 merges branch in a branch
 
 ### git stash
 saves added files out of staging area
+
+### git stash list
+lists the stash
+
+### git stash pop
+unstash and deletes the stash box
+
+### git stash save "save message"
+stashes with save message
+
+### git stash apply
+unstaches the changes only and keep the files in the stash
+
+### git stash pop stash@{<id>}
+unstash specific stash
+
+### git stash drop
+drops stash
+
+### git stash show
+shows the stash content
+
+### git stash clear
+clears the stashes
 
 
 
