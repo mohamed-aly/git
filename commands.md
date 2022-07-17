@@ -113,6 +113,21 @@ removes unstaged changes
 ### git log
 lists the logs
 
+### git reset --hard <hash>
+resets the head
+
+## tags
+ 
+### git tag
+lists the tags
+
+### git tag <v1.0>
+create tag
+
+### git push origin <tag name>
+pushes the tag
+
+### git tag -a <tag name or version> -m "message" 
 
 
 
